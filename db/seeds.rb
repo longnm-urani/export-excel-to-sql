@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+QuizScope.create([{ quiz_scope_name: "CP" }, { quiz_scope_name: "NP" },{ quiz_scope_name: "A" }, { quiz_scope_name: "FC" },{ quiz_scope_name: "AC" }])

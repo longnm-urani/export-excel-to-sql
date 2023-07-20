@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cp_severity: 1
+  np_kindness: 1
+  a_logic: 1
+  fc_free_spirited: 1
+  ac_adaptive: 1
+  score_level: 1
+  pattern_number_1024: MyString
+  pattern_name_1024: MyString
+  pattern_number_31: MyString
+  result_content_name: MyString
+
+two:
+  cp_severity: 1
+  np_kindness: 1
+  a_logic: 1
+  fc_free_spirited: 1
+  ac_adaptive: 1
+  score_level: 1
+  pattern_number_1024: MyString
+  pattern_name_1024: MyString
+  pattern_number_31: MyString
+  result_content_name: MyString

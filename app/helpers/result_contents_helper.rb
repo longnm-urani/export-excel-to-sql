@@ -1,0 +1,2 @@
+module ResultContentsHelper
+end

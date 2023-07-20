@@ -1,0 +1,2 @@
+module PersonalityPatternsHelper
+end
